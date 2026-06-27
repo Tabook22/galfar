@@ -1,0 +1,3 @@
+Total Revenue: $1,000,000
+Total Expenses: $600,000
+Net Profit: $400,000

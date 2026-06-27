@@ -1,0 +1,32 @@
+{
+  "title": "Review 2",
+  "saved_at": "2026-06-27T06:43:25.876131",
+  "source_type": "report",
+  "source_name": "s2.txt",
+  "report_id": 3,
+  "analysis_id": 3,
+  "report": {
+    "filename": "c151d133ed044efe9764c5951daa499f.txt",
+    "original_filename": "s2.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\c151d133ed044efe9764c5951daa499f.txt",
+    "file_type": "txt",
+    "file_size": 12
+  },
+  "analysis": {
+    "id": 3,
+    "report_id": 3,
+    "status": "completed",
+    "summary": "The financial report indicates a total revenue of 100, with a detailed analysis of expenses, profit or loss, cash flow, assets, liabilities, risks, strengths, weaknesses, and recommendations.",
+    "revenue": "100",
+    "expenses": "Details on expenses are not provided in the report.",
+    "profit_loss": "Profit or loss details are not specified in the report.",
+    "cash_flow": "Cash flow information is not included in the report.",
+    "assets": "Asset details are not mentioned in the report.",
+    "liabilities": "Liability information is absent from the report.",
+    "risks": "Risks associated with the financial performance are not discussed.",
+    "strengths": "Strengths of the organization are not identified in the report.",
+    "weaknesses": "Weaknesses of the organization are not outlined in the report.",
+    "recommendations": "No specific recommendations are provided in the report.",
+    "created_at": "2026-06-27T06:43:22.333205"
+  }
+}

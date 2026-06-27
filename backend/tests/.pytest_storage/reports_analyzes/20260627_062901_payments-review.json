@@ -1,0 +1,39 @@
+{
+  "title": "Updated Payments",
+  "saved_at": "2026-06-27T06:29:01.808239",
+  "source_type": "report",
+  "source_name": "sales.txt",
+  "report_id": 1,
+  "analysis_id": 1,
+  "report": {
+    "filename": "acb4b2b09a8245eba4526d34f1b0f6a0.txt",
+    "original_filename": "sales.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\acb4b2b09a8245eba4526d34f1b0f6a0.txt",
+    "file_type": "txt",
+    "file_size": 43
+  },
+  "analysis": {
+    "id": 1,
+    "report_id": 1,
+    "status": "completed",
+    "summary": "Revised executive summary.",
+    "revenue": "150,000",
+    "expenses": "$80,000",
+    "profit_loss": "$20,000",
+    "cash_flow": "Positive cash flow is indicated by the net profit.",
+    "assets": "Not specified in the report.",
+    "liabilities": "Not specified in the report.",
+    "risks": "Potential risks include market fluctuations and operational inefficiencies.",
+    "strengths": "Strong revenue generation with a healthy profit margin.",
+    "weaknesses": "Lack of detailed information on expenses, assets, and liabilities.",
+    "recommendations": "Consider providing a more detailed breakdown of expenses and a balance sheet to better assess financial health.",
+    "created_at": "2026-06-27T06:28:58.547306"
+  },
+  "custom_sections": [
+    {
+      "title": "Auditor notes",
+      "content": "Verified by finance team."
+    }
+  ],
+  "last_edited_at": "2026-06-27T06:29:01.838988"
+}

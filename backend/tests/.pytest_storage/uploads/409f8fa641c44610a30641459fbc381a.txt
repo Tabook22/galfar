@@ -1,0 +1,5 @@
+Store: Acme Market
+Date: 03/15/2026
+Subtotal: $45.00
+Tax: $2.25
+Total: $47.25

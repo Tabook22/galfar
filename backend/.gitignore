@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+storage/galfar.db
+storage/galfar_manifest.json
+uploads/*
+!uploads/.gitkeep
+storage/reports_analyzes/*
+!storage/reports_analyzes/.gitkeep
+.pytest_cache/

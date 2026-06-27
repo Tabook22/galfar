@@ -1,0 +1,339 @@
+{
+  "app": {
+    "name": "جلفار",
+    "title": "جلفار — محلل التقارير المالية"
+  },
+  "nav": {
+    "dashboard": "لوحة التحكم",
+    "upload": "رفع تقرير",
+    "reports": "التقارير",
+    "batches": "تحليل مجمّع",
+    "savedAnalyses": "التحليلات المحفوظة",
+    "settings": "الإعدادات"
+  },
+  "language": {
+    "label": "اللغة",
+    "en": "English",
+    "ar": "العربية"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "save": "حفظ",
+    "view": "عرض",
+    "download": "تنزيل",
+    "chat": "محادثة",
+    "analysis": "تحليل",
+    "backToReport": "العودة إلى التقرير",
+    "notAvailable": "غير متوفر",
+    "bytes": "بايت",
+    "status": "الحالة",
+    "type": "النوع",
+    "size": "الحجم",
+    "uploaded": "تاريخ الرفع",
+    "send": "إرسال",
+    "chooseFile": "اختر ملفًا",
+    "cancel": "إلغاء"
+  },
+  "status": {
+    "uploaded": "تم الرفع",
+    "analyzed": "تم التحليل",
+    "analysis_failed": "فشل التحليل"
+  },
+  "errors": {
+    "loadDashboard": "فشل تحميل لوحة التحكم",
+    "loadReports": "فشل تحميل التقارير",
+    "loadReport": "فشل تحميل التقرير",
+    "loadAnalysis": "فشل تحميل التحليل",
+    "loadChat": "فشل تحميل المحادثة",
+    "uploadFailed": "فشل الرفع",
+    "deleteFailed": "فشل الحذف",
+    "analysisFailed": "فشل التحليل",
+    "chatFailed": "فشل طلب المحادثة"
+  },
+  "confirm": {
+    "deleteReport": "هل تريد حذف هذا التقرير؟",
+    "deleteReportFull": "هل تريد حذف هذا التقرير وجميع التحليلات وسجل المحادثة المرتبطة به؟",
+    "deleteReportsBulk": "هل تريد حذف {{count}} تقارير محددة وجميع التحليلات وسجل المحادثة المرتبطة بها؟"
+  },
+  "confirmDialog": {
+    "title": "تأكيد الحذف",
+    "processing": "جاري الحذف..."
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "subtitle": "ارفع التقارير المالية، نفّذ التحليل، وتحدث مع مستنداتك.",
+    "totalReports": "إجمالي التقارير",
+    "analyzed": "تم تحليلها",
+    "chatMessages": "رسائل المحادثة",
+    "recentReports": "أحدث التقارير",
+    "uploadReport": "رفع تقرير",
+    "noReports": "لا توجد تقارير بعد. ارفع أول تقرير مالي للبدء."
+  },
+  "upload": {
+    "title": "رفع تقرير",
+    "subtitle": "ارفع تقريرًا ماليًا بصيغة PDF أو TXT أو CSV أو جدول بيانات للتحليل.",
+    "uploading": "جاري الرفع...",
+    "success": "تم رفع \"{{filename}}\" بنجاح.",
+    "dragDrop": "اسحب تقريرًا ماليًا وأفلته هنا",
+    "supported": "الصيغ المدعومة: PDF و TXT و CSV و XLSX و XLS و DOCX (بحد أقصى 25 ميجابايت)"
+  },
+  "reports": {
+    "title": "التقارير",
+    "subtitle": "تصفح وابحث وأدر مستنداتك المالية المرفوعة.",
+    "empty": "لم يتم رفع أي تقارير بعد.",
+    "emptyTitle": "لا توجد تقارير بعد",
+    "noResults": "لا توجد تقارير تطابق البحث أو الفلاتر.",
+    "uploadedAt": "تم الرفع {{date}}",
+    "searchPlaceholder": "ابحث باسم الملف...",
+    "filterCategory": "تصفية حسب النوع",
+    "allCategories": "جميع الأنواع",
+    "sortBy": "ترتيب حسب",
+    "sortDate": "التاريخ",
+    "sortName": "الاسم",
+    "sortCategory": "الفئة",
+    "sortAsc": "الأقدم أولًا",
+    "sortDesc": "الأحدث أولًا",
+    "showingCount": "عرض {{count}} تقرير",
+    "badgeAnalyzed": "تم التحليل",
+    "selectAll": "تحديد الكل",
+    "selectReport": "تحديد التقرير",
+    "selectReportNamed": "تحديد {{name}}",
+    "selectedCount": "{{count}} محدد",
+    "deleteSelected": "حذف المحدد",
+    "clearSelection": "إلغاء التحديد",
+    "deleting": "جاري الحذف..."
+  },
+  "reportDetails": {
+    "loading": "جاري تحميل التقرير...",
+    "runAnalysis": "تشغيل التحليل",
+    "analyzing": "جاري التحليل...",
+    "metadata": "البيانات الوصفية",
+    "analyses": "التحليلات",
+    "chatMessages": "رسائل المحادثة",
+    "viewLatestAnalysis": "عرض أحدث تحليل",
+    "discussAnalysis": "ناقش التحليل",
+    "extractedPreview": "معاينة النص المستخرج",
+    "noTextExtracted": "لم يتم استخراج نص بعد."
+  },
+  "reportAnalysis": {
+    "title": "التحليل المالي",
+    "loading": "جاري تحميل التحليل...",
+    "runAnalysis": "تشغيل التحليل",
+    "rerunAnalysis": "إعادة التحليل",
+    "running": "جاري التشغيل...",
+    "empty": "لا يوجد تحليل بعد. انقر \"تشغيل التحليل\" لإنشاء رؤى.",
+    "sections": {
+      "summary": "الملخص",
+      "revenue": "الإيرادات",
+      "expenses": "المصروفات",
+      "profitLoss": "الربح / الخسارة",
+      "cashFlow": "التدفق النقدي",
+      "assets": "الأصول",
+      "liabilities": "الالتزامات",
+      "risks": "المخاطر المالية",
+      "strengths": "نقاط القوة",
+      "weaknesses": "نقاط الضعف",
+      "recommendations": "التوصيات"
+    },
+    "chat": {
+      "title": "ناقش هذا التحليل",
+      "hint": "اطرح أسئلة حول النتائج أدناه — تستخدم الإجابات التحليل المحفوظ.",
+      "placeholder": "اسأل عن هذا التحليل...",
+      "emptyHint": "ناقش نتائج التحليل — جرّب سؤالًا مقترحًا أو اكتب سؤالك.",
+      "prompts": {
+        "summary": "اشرح الملخص بعبارات بسيطة",
+        "revenue": "أخبرني المزيد عن الإيرادات",
+        "risks": "ما هي المخاطر المالية الرئيسية؟",
+        "recommendations": "ما توصياتك بناءً على هذا التحليل؟"
+      }
+    }
+  },
+  "reportChat": {
+    "title": "محادثة مع التقرير",
+    "hint": "يتم إنشاء الإجابات من نص المستند المرفوع",
+    "hintWithAnalysis": "يتم إنشاء الإجابات من نص المستند المرفوع ونتائج التحليل.",
+    "placeholder": "اسأل عن هذا التقرير...",
+    "emptyHint": "اطرح أسئلة حول الإيرادات أو المصروفات أو المخاطر أو التوصيات."
+  },
+  "batch": {
+    "backToBatch": "العودة إلى المجموعة",
+    "analyzeAll": "تحليل جميع التقارير",
+    "upload": {
+      "title": "رفع تقارير متعددة",
+      "subtitle": "ارفع تقريرين أو أكثر معًا لتحليلها كمجموعة ورؤية الصورة الكاملة.",
+      "dragDrop": "اسحب عدة تقارير مالية وأفلتها هنا",
+      "chooseFiles": "اختر ملفات",
+      "selected": "تم اختيار {{count}} ملفات",
+      "minFiles": "يرجى اختيار تقريرين على الأقل للتحليل المجمّع.",
+      "success": "تم رفع {{count}} تقارير إلى المجموعة \"{{name}}\".",
+      "nameLabel": "اسم المجموعة (اختياري)",
+      "namePlaceholder": "مثال: تقارير الربع الأول 2026"
+    },
+    "list": {
+      "title": "مجموعات التقارير",
+      "subtitle": "تقارير مجمّعة تُحلّل معًا للحصول على رؤى شاملة.",
+      "empty": "لا توجد مجموعات بعد. ارفع عدة تقارير للبدء.",
+      "reports": "تقارير",
+      "bigPicture": "الصورة الكاملة"
+    },
+    "details": {
+      "includedReports": "التقارير في هذه المجموعة",
+      "savedAnalyses": "{{count}} من {{total}} تقارير لديها تحليلات محفوظة",
+      "discussAnalysis": "ناقش التحليل المجمّع"
+    },
+    "analysis": {
+      "title": "تحليل مجمّع — الصورة الكاملة",
+      "empty": "لا يوجد تحليل مجمّع بعد. انقر \"تحليل جميع التقارير\" لتلخيص المجموعة.",
+      "bigPicture": "ملخص الصورة الكاملة",
+      "rerun": "إعادة التحليل المجمّع",
+      "savedCount": "{{count}} من {{total}} تحليلات محفوظة",
+      "savedReportsTitle": "تحليلات محفوظة لكل تقرير",
+      "savedReportsHint": "يُحفظ تحليل كل تقرير في التطبيق ويُستخدم في محادثة المجموعة.",
+      "noReportAnalysis": "لا يوجد تحليل محفوظ لهذا التقرير بعد.",
+      "viewReportAnalysis": "عرض التحليل الكامل",
+      "chatWithAnalyses": "محادثة مع التحليلات",
+      "chat": {
+        "title": "ناقش هذا التحليل المجمّع",
+        "hint": "اسأل عن الصورة الكاملة — تستخدم الإجابات التحليل المجمّع وتحليلات كل تقرير.",
+        "placeholder": "اسأل عن التحليل المجمّع...",
+        "emptyHint": "ناقش نتائج المجموعة — جرّب سؤالًا مقترحًا أو اكتب سؤالك.",
+        "prompts": {
+          "summary": "اشرح الملخص المجمّع",
+          "revenue": "ما إجمالي الإيرادات عبر التقارير؟",
+          "compare": "قارن النتائج بين التقارير",
+          "risks": "ما المخاطر الرئيسية عبر جميع التقارير؟"
+        }
+      }
+    },
+    "chat": {
+      "title": "محادثة مع المجموعة",
+      "placeholder": "اسأل عن التقارير المجمّعة...",
+      "emptyHint": "اسأل عن الإجماليات أو الاتجاهات أو المخاطر أو المقارنات بين جميع التقارير.",
+      "hintWithAnalysis": "تستخدم الإجابات التحليل المجمّع وتحليلات كل تقرير المحفوظة.",
+      "runAnalysisFirst": "نفّذ التحليل المجمّع أولًا لحفظ النتائج، ثم تحدث عن الصورة الكاملة."
+    },
+    "confirm": {
+      "delete": "هل تريد حذف هذه المجموعة وجميع تقاريرها وتحليلاتها وسجل المحادثة؟"
+    },
+    "errors": {
+      "load": "فشل تحميل المجموعة"
+    }
+  },
+  "savedAnalyses": {
+    "listTitle": "التحليلات المحفوظة",
+    "listSubtitle": "نتائج التحليل المالي التي حفظتها بعنوان مخصص.",
+    "empty": "لا توجد تحليلات محفوظة بعد. نفّذ تحليلًا وانقر \"حفظ التحليل\".",
+    "saveButton": "حفظ التحليل",
+    "saving": "جاري الحفظ...",
+    "saveDialogTitle": "حفظ التحليل",
+    "saveDialogHint": "أدخل عنوانًا لهذا التحليل. يُحفظ الملف باسم يتضمن الطابع الزمني في reports_analyzes.",
+    "titleLabel": "عنوان التحليل",
+    "titlePlaceholder": "مثال: مراجعة مبيعات الربع الأول",
+    "titleRequired": "يرجى إدخال عنوان.",
+    "cancel": "إلغاء",
+    "saveSuccess": "تم حفظ التحليل باسم \"{{title}}\".",
+    "backToList": "العودة إلى التحليلات المحفوظة",
+    "typeReport": "تقرير واحد",
+    "typeBatch": "مجموعة مجمّعة",
+    "file": "الملف",
+    "report": "تقرير",
+    "confirmDelete": "هل تريد حذف التحليل المحفوظ \"{{title}}\"؟",
+    "confirmDeleteBulk": "هل تريد حذف {{count}} تحليلات محفوظة محددة؟",
+    "selectAll": "تحديد الكل",
+    "selectItem": "تحديد التحليل",
+    "selectItemNamed": "تحديد {{title}}",
+    "selectedCount": "{{count}} محدد",
+    "deleteSelected": "حذف المحدد",
+    "clearSelection": "إلغاء التحديد",
+    "deleting": "جاري الحذف...",
+    "showingCount": "عرض {{count}} تحليل محفوظ",
+    "editHint": "عدّل تقرير التحليل الكامل أدناه. استخدم العناوين والخطوط والروابط والصور حسب الحاجة.",
+    "documentLabel": "تقرير التحليل",
+    "reanalyze": "إعادة التحليل",
+    "reanalyzeDialogTitle": "إعادة التحليل بمحور جديد",
+    "reanalyzeDialogHint": "صف ما تريد أن يركز عليه التحليل — مؤشرات محددة، مخاطر، أسئلة، أو مجالات عمل. سيتم تحليل التقرير مجددًا وفق هذه المعايير.",
+    "reanalyzeCriteriaLabel": "معايير التركيز والأسئلة",
+    "reanalyzeCriteriaPlaceholder": "مثال: ركّز على اتجاهات التدفق النقدي، قارن الإيرادات حسب المنطقة، وأبرز مخاطر السيولة للربع الثاني.",
+    "reanalyzeCriteriaRequired": "يرجى إدخال معايير أو أسئلة لإعادة التحليل.",
+    "reanalyzing": "جاري إعادة التحليل...",
+    "reanalyzeSuccess": "تم تحديث التحليل وفق محورك الجديد.",
+    "lastReanalyzed": "آخر إعادة تحليل",
+    "lastReanalyzeFocus": "آخر محور",
+    "editSuccess": "تم تحديث التحليل بنجاح.",
+    "lastEdited": "آخر تعديل",
+    "customSectionsTitle": "أقسام إضافية",
+    "customSectionsHint": "أضف ملاحظاتك أو تعليقات المراجع أو تفاصيل مالية إضافية.",
+    "addSection": "إضافة قسم",
+    "removeSection": "إزالة القسم",
+    "noCustomSections": "لا توجد أقسام إضافية بعد. انقر \"إضافة قسم\" لإدراج معلومات إضافية.",
+    "sectionTitleLabel": "عنوان القسم",
+    "sectionTitlePlaceholder": "مثال: ملاحظات المراجع",
+    "sectionContentLabel": "محتوى القسم",
+    "errors": {
+      "load": "فشل تحميل التحليلات المحفوظة",
+      "loadOne": "فشل تحميل التحليل المحفوظ",
+      "save": "فشل حفظ التحليل",
+      "update": "فشل تحديث التحليل المحفوظ",
+      "reanalyze": "فشل إعادة تحليل التحليل المحفوظ"
+    }
+  },
+  "richEditor": {
+    "linkPrompt": "أدخل رابط URL:",
+    "imagePrompt": "أدخل رابط الصورة:"
+  },
+  "settings": {
+    "title": "إعدادات الشركة",
+    "subtitle": "خصّص عنوان الصفحة والشعار ومعلومات الشركة للتعريف والطباعة.",
+    "bilingualHint": "أدخل المعلومات بالإنجليزية والعربية. يعرض التطبيق النسخة حسب اللغة المختارة.",
+    "englishVersion": "الإنجليزية",
+    "arabicVersion": "العربية",
+    "bilingualRequired": "يرجى إدخال اسم الشركة وعنوان الصفحة بالإنجليزية أو العربية على الأقل.",
+    "brandingTitle": "الهوية البصرية",
+    "companyInfoTitle": "معلومات الشركة",
+    "pageTitle": "عنوان الصفحة الرئيسية",
+    "pageTitlePlaceholder": "مثال: جلفار — محلل التقارير المالية",
+    "pageTitlePlaceholderAr": "مثال: جلفار — محلل التقارير المالية",
+    "companyName": "اسم الشركة (الرأس)",
+    "companyNamePlaceholder": "e.g. Galfar Gases",
+    "companyNamePlaceholderAr": "مثال: غالفار للغازات",
+    "tagline": "الشعار النصي",
+    "taglinePlaceholder": "Short description shown under the title",
+    "taglinePlaceholderAr": "وصف قصير يظهر تحت العنوان",
+    "logo": "شعار الشركة",
+    "noLogo": "لم يتم رفع شعار",
+    "uploadLogo": "رفع الشعار",
+    "removeLogo": "إزالة الشعار",
+    "confirmRemoveLogo": "هل تريد إزالة شعار الشركة؟",
+    "logoUploadSuccess": "تم رفع الشعار بنجاح.",
+    "logoRemoved": "تمت إزالة الشعار.",
+    "industry": "نوع العمل / القطاع",
+    "industryPlaceholder": "e.g. Industrial gases & energy",
+    "industryPlaceholderAr": "مثال: الغازات الصناعية والطاقة",
+    "address": "العنوان",
+    "addressPlaceholder": "Street, city, country",
+    "addressPlaceholderAr": "الشارع، المدينة، الدولة",
+    "phone": "الهاتف",
+    "email": "البريد الإلكتروني",
+    "website": "الموقع الإلكتروني",
+    "history": "تاريخ الشركة",
+    "historyPlaceholder": "Brief history, milestones, or background...",
+    "historyPlaceholderAr": "نبذة تاريخية أو محطات بارزة...",
+    "introduction": "مقدمة عن الشركة",
+    "introductionHint": "مقدمة منسّقة للتقارير أو العروض أو الطباعة.",
+    "previewTitle": "معاينة الملف التعريفي",
+    "showPreview": "إظهار المعاينة",
+    "hidePreview": "إخفاء المعاينة",
+    "printProfile": "طباعة الملف",
+    "saveSuccess": "تم حفظ إعدادات الشركة.",
+    "saving": "جاري الحفظ...",
+    "backToDashboard": "العودة إلى لوحة التحكم",
+    "setupLink": "أعد ملفك التعريفي من صفحة الإعدادات",
+    "profileEmptyHint": "أضف الشعار والعنوان والتاريخ والمقدمة لإنشاء ملف تعريفي قابل للطباعة.",
+    "errors": {
+      "save": "فشل حفظ إعدادات الشركة",
+      "logo": "فشل تحديث الشعار"
+    }
+  }
+}

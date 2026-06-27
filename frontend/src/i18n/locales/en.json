@@ -1,0 +1,339 @@
+{
+  "app": {
+    "name": "Galfar",
+    "title": "Galfar — Financial Report Analyzer"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "upload": "Upload",
+    "reports": "Reports",
+    "batches": "Batch analysis",
+    "savedAnalyses": "Saved analyses",
+    "settings": "Settings"
+  },
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "ar": "Arabic"
+  },
+  "common": {
+    "loading": "Loading...",
+    "delete": "Delete",
+    "edit": "Edit",
+    "save": "Save",
+    "view": "View",
+    "download": "Download",
+    "chat": "Chat",
+    "analysis": "Analysis",
+    "backToReport": "Back to report",
+    "notAvailable": "Not available",
+    "bytes": "bytes",
+    "status": "Status",
+    "type": "Type",
+    "size": "Size",
+    "uploaded": "Uploaded",
+    "send": "Send",
+    "chooseFile": "Choose file",
+    "cancel": "Cancel"
+  },
+  "status": {
+    "uploaded": "Uploaded",
+    "analyzed": "Analyzed",
+    "analysis_failed": "Analysis failed"
+  },
+  "errors": {
+    "loadDashboard": "Failed to load dashboard",
+    "loadReports": "Failed to load reports",
+    "loadReport": "Failed to load report",
+    "loadAnalysis": "Failed to load analysis",
+    "loadChat": "Failed to load chat",
+    "uploadFailed": "Upload failed",
+    "deleteFailed": "Delete failed",
+    "analysisFailed": "Analysis failed",
+    "chatFailed": "Chat request failed"
+  },
+  "confirm": {
+    "deleteReport": "Delete this report?",
+    "deleteReportFull": "Delete this report and all related analysis and chat history?",
+    "deleteReportsBulk": "Delete {{count}} selected reports and all related analysis and chat history?"
+  },
+  "confirmDialog": {
+    "title": "Confirm delete",
+    "processing": "Deleting..."
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Upload financial reports, run analysis, and chat with your documents.",
+    "totalReports": "Total reports",
+    "analyzed": "Analyzed",
+    "chatMessages": "Chat messages",
+    "recentReports": "Recent reports",
+    "uploadReport": "Upload report",
+    "noReports": "No reports yet. Upload your first financial report to get started."
+  },
+  "upload": {
+    "title": "Upload report",
+    "subtitle": "Upload a PDF, TXT, CSV, or spreadsheet financial report for analysis.",
+    "uploading": "Uploading...",
+    "success": "Uploaded \"{{filename}}\" successfully.",
+    "dragDrop": "Drag and drop a financial report here",
+    "supported": "Supported: PDF, TXT, CSV, XLSX, XLS, DOCX (max 25 MB)"
+  },
+  "reports": {
+    "title": "Reports",
+    "subtitle": "Browse, search, and manage your uploaded financial documents.",
+    "empty": "No reports uploaded yet.",
+    "emptyTitle": "No reports yet",
+    "noResults": "No reports match your search or filters.",
+    "uploadedAt": "Uploaded {{date}}",
+    "searchPlaceholder": "Search by file name...",
+    "filterCategory": "Filter by type",
+    "allCategories": "All types",
+    "sortBy": "Sort by",
+    "sortDate": "Date",
+    "sortName": "Name",
+    "sortCategory": "Category",
+    "sortAsc": "Oldest first",
+    "sortDesc": "Newest first",
+    "showingCount": "Showing {{count}} report(s)",
+    "badgeAnalyzed": "Analyzed",
+    "selectAll": "Select all",
+    "selectReport": "Select report",
+    "selectReportNamed": "Select {{name}}",
+    "selectedCount": "{{count}} selected",
+    "deleteSelected": "Delete selected",
+    "clearSelection": "Clear selection",
+    "deleting": "Deleting..."
+  },
+  "reportDetails": {
+    "loading": "Loading report...",
+    "runAnalysis": "Run analysis",
+    "analyzing": "Analyzing...",
+    "metadata": "Metadata",
+    "analyses": "Analyses",
+    "chatMessages": "Chat messages",
+    "viewLatestAnalysis": "View latest analysis",
+    "discussAnalysis": "Discuss analysis",
+    "extractedPreview": "Extracted text preview",
+    "noTextExtracted": "No text extracted yet."
+  },
+  "reportAnalysis": {
+    "title": "Financial analysis",
+    "loading": "Loading analysis...",
+    "runAnalysis": "Run analysis",
+    "rerunAnalysis": "Re-run analysis",
+    "running": "Running...",
+    "empty": "No analysis yet. Click \"Run analysis\" to generate insights.",
+    "sections": {
+      "summary": "Summary",
+      "revenue": "Revenue",
+      "expenses": "Expenses",
+      "profitLoss": "Profit / Loss",
+      "cashFlow": "Cash flow",
+      "assets": "Assets",
+      "liabilities": "Liabilities",
+      "risks": "Financial risks",
+      "strengths": "Strengths",
+      "weaknesses": "Weaknesses",
+      "recommendations": "Recommendations"
+    },
+    "chat": {
+      "title": "Discuss this analysis",
+      "hint": "Ask questions about the results below — answers use your saved analysis.",
+      "placeholder": "Ask about this analysis...",
+      "emptyHint": "Discuss the analysis results — try a suggested question or type your own.",
+      "prompts": {
+        "summary": "Explain the summary in simple terms",
+        "revenue": "Tell me more about the revenue",
+        "risks": "What are the main financial risks?",
+        "recommendations": "What do you recommend based on this analysis?"
+      }
+    }
+  },
+  "reportChat": {
+    "title": "Chat with report",
+    "hint": "Answers are generated from the uploaded document text",
+    "hintWithAnalysis": "Answers are generated from the uploaded document text and analysis results.",
+    "placeholder": "Ask about this report...",
+    "emptyHint": "Ask questions about revenue, expenses, risks, or recommendations."
+  },
+  "batch": {
+    "backToBatch": "Back to batch",
+    "analyzeAll": "Analyze all reports",
+    "upload": {
+      "title": "Upload multiple reports",
+      "subtitle": "Upload two or more financial reports together to analyze them as a group and see the big picture.",
+      "dragDrop": "Drag and drop multiple financial reports here",
+      "chooseFiles": "Choose files",
+      "selected": "{{count}} files selected",
+      "minFiles": "Please select at least 2 reports for batch analysis.",
+      "success": "Uploaded {{count}} reports to batch \"{{name}}\".",
+      "nameLabel": "Batch name (optional)",
+      "namePlaceholder": "e.g. Q1 2026 Financial Reports"
+    },
+    "list": {
+      "title": "Report batches",
+      "subtitle": "Grouped reports analyzed together for combined insights.",
+      "empty": "No batches yet. Upload multiple reports to get started.",
+      "reports": "reports",
+      "bigPicture": "Big picture"
+    },
+    "details": {
+      "includedReports": "Reports in this batch",
+      "savedAnalyses": "{{count}} of {{total}} reports have saved analyses",
+      "discussAnalysis": "Discuss combined analysis"
+    },
+    "analysis": {
+      "title": "Combined analysis — big picture",
+      "empty": "No combined analysis yet. Click \"Analyze all reports\" to summarize the batch.",
+      "bigPicture": "Big picture summary",
+      "rerun": "Re-run combined analysis",
+      "savedCount": "{{count}} of {{total}} saved analyses",
+      "savedReportsTitle": "Saved per-report analyses",
+      "savedReportsHint": "Each report analysis is saved in the app and used for batch chat.",
+      "noReportAnalysis": "No saved analysis for this report yet.",
+      "viewReportAnalysis": "View full analysis",
+      "chatWithAnalyses": "Chat with analyses",
+      "chat": {
+        "title": "Discuss this combined analysis",
+        "hint": "Ask about the big picture — answers use the combined and per-report analyses.",
+        "placeholder": "Ask about the combined analysis...",
+        "emptyHint": "Discuss the batch results — try a suggested question or ask your own.",
+        "prompts": {
+          "summary": "Explain the combined summary",
+          "revenue": "What is the total revenue across reports?",
+          "compare": "Compare results between the reports",
+          "risks": "What are the main risks across all reports?"
+        }
+      }
+    },
+    "chat": {
+      "title": "Chat with batch",
+      "placeholder": "Ask about the combined reports...",
+      "emptyHint": "Ask about totals, trends, risks, or comparisons across all reports in this batch.",
+      "hintWithAnalysis": "Answers use saved combined and per-report analyses.",
+      "runAnalysisFirst": "Run combined analysis first to save insights, then chat about the big picture."
+    },
+    "confirm": {
+      "delete": "Delete this batch and all its reports, analyses, and chat history?"
+    },
+    "errors": {
+      "load": "Failed to load batch"
+    }
+  },
+  "savedAnalyses": {
+    "listTitle": "Saved analyses",
+    "listSubtitle": "Financial analysis results you saved with a custom title.",
+    "empty": "No saved analyses yet. Run an analysis and click \"Save analysis\".",
+    "saveButton": "Save analysis",
+    "saving": "Saving...",
+    "saveDialogTitle": "Save analysis",
+    "saveDialogHint": "Give this analysis a title. The file is saved with a timestamp name in reports_analyzes.",
+    "titleLabel": "Analysis title",
+    "titlePlaceholder": "e.g. Q1 Sales Review",
+    "titleRequired": "Please enter a title.",
+    "cancel": "Cancel",
+    "saveSuccess": "Analysis saved as \"{{title}}\".",
+    "backToList": "Back to saved analyses",
+    "typeReport": "Single report",
+    "typeBatch": "Combined batch",
+    "file": "File",
+    "report": "Report",
+    "confirmDelete": "Delete saved analysis \"{{title}}\"?",
+    "confirmDeleteBulk": "Delete {{count}} selected saved analyses?",
+    "selectAll": "Select all",
+    "selectItem": "Select analysis",
+    "selectItemNamed": "Select {{title}}",
+    "selectedCount": "{{count}} selected",
+    "deleteSelected": "Delete selected",
+    "clearSelection": "Clear selection",
+    "deleting": "Deleting...",
+    "showingCount": "Showing {{count}} saved analysis/analyses",
+    "editHint": "Edit the full analysis report below. Use headings, fonts, links, and images as needed.",
+    "documentLabel": "Analysis report",
+    "reanalyze": "Re-analyze",
+    "reanalyzeDialogTitle": "Re-analyze with new focus",
+    "reanalyzeDialogHint": "Describe what you want the analysis to focus on — specific metrics, risks, questions, or business areas. The report will be analyzed again using these criteria.",
+    "reanalyzeCriteriaLabel": "Focus criteria & questions",
+    "reanalyzeCriteriaPlaceholder": "e.g. Focus on cash flow trends, compare revenue by region, and highlight liquidity risks for Q2.",
+    "reanalyzeCriteriaRequired": "Please enter criteria or questions for the re-analysis.",
+    "reanalyzing": "Re-analyzing...",
+    "reanalyzeSuccess": "Analysis updated with your new focus.",
+    "lastReanalyzed": "Last re-analyzed",
+    "lastReanalyzeFocus": "Last focus",
+    "editSuccess": "Analysis updated successfully.",
+    "lastEdited": "Last edited",
+    "customSectionsTitle": "Additional sections",
+    "customSectionsHint": "Add your own notes, auditor comments, or extra financial details.",
+    "addSection": "Add section",
+    "removeSection": "Remove section",
+    "noCustomSections": "No additional sections yet. Click \"Add section\" to include extra information.",
+    "sectionTitleLabel": "Section title",
+    "sectionTitlePlaceholder": "e.g. Auditor notes",
+    "sectionContentLabel": "Section content",
+    "errors": {
+      "load": "Failed to load saved analyses",
+      "loadOne": "Failed to load saved analysis",
+      "save": "Failed to save analysis",
+      "update": "Failed to update saved analysis",
+      "reanalyze": "Failed to re-analyze saved analysis"
+    }
+  },
+  "richEditor": {
+    "linkPrompt": "Enter link URL:",
+    "imagePrompt": "Enter image URL:"
+  },
+  "settings": {
+    "title": "Company settings",
+    "subtitle": "Customize your page title, logo, and company profile for introductions and printing.",
+    "bilingualHint": "Enter information in both English and Arabic. The app shows the version matching your selected language.",
+    "englishVersion": "English",
+    "arabicVersion": "Arabic",
+    "bilingualRequired": "Please enter at least the company name and page title in English or Arabic.",
+    "brandingTitle": "Branding",
+    "companyInfoTitle": "Company information",
+    "pageTitle": "Main page title",
+    "pageTitlePlaceholder": "e.g. Galfar — Financial Report Analyzer",
+    "pageTitlePlaceholderAr": "مثال: جلفار — محلل التقارير المالية",
+    "companyName": "Company name (header)",
+    "companyNamePlaceholder": "e.g. Galfar Gases",
+    "companyNamePlaceholderAr": "مثال: غالفار للغازات",
+    "tagline": "Tagline",
+    "taglinePlaceholder": "Short description shown under the title",
+    "taglinePlaceholderAr": "وصف قصير يظهر تحت العنوان",
+    "logo": "Company logo",
+    "noLogo": "No logo uploaded",
+    "uploadLogo": "Upload logo",
+    "removeLogo": "Remove logo",
+    "confirmRemoveLogo": "Remove the company logo?",
+    "logoUploadSuccess": "Logo uploaded successfully.",
+    "logoRemoved": "Logo removed.",
+    "industry": "Industry / type of work",
+    "industryPlaceholder": "e.g. Industrial gases & energy",
+    "industryPlaceholderAr": "مثال: الغازات الصناعية والطاقة",
+    "address": "Address",
+    "addressPlaceholder": "Street, city, country",
+    "addressPlaceholderAr": "الشارع، المدينة، الدولة",
+    "phone": "Phone",
+    "email": "Email",
+    "website": "Website",
+    "history": "Company history",
+    "historyPlaceholder": "Brief history, milestones, or background...",
+    "historyPlaceholderAr": "نبذة تاريخية أو محطات بارزة...",
+    "introduction": "Company introduction",
+    "introductionHint": "Rich introduction for reports, proposals, or printed company profiles.",
+    "previewTitle": "Profile preview",
+    "showPreview": "Show preview",
+    "hidePreview": "Hide preview",
+    "printProfile": "Print profile",
+    "saveSuccess": "Company settings saved.",
+    "saving": "Saving...",
+    "backToDashboard": "Back to dashboard",
+    "setupLink": "Set up your company profile in Settings",
+    "profileEmptyHint": "Add your logo, address, history, and introduction to build a printable company profile.",
+    "errors": {
+      "save": "Failed to save company settings",
+      "logo": "Failed to update logo"
+    }
+  }
+}

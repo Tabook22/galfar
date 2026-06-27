@@ -1,0 +1,322 @@
+[
+  {
+    "report_id": 1,
+    "filename": "b9a377ef5dbb46678ed93e230583655d.txt",
+    "original_filename": "report.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\b9a377ef5dbb46678ed93e230583655d.txt",
+    "file_type": "txt",
+    "file_size": 71,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:28:21.955166"
+  },
+  {
+    "report_id": 1,
+    "filename": "c2cc8d492df948ba89051c53a0b36d51.txt",
+    "original_filename": "finance.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\c2cc8d492df948ba89051c53a0b36d51.txt",
+    "file_type": "txt",
+    "file_size": 69,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:28:22.074304"
+  },
+  {
+    "report_id": 1,
+    "filename": "a0ba73a3656747c4986d662c882d7b64.txt",
+    "original_filename": "small.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\a0ba73a3656747c4986d662c882d7b64.txt",
+    "file_type": "txt",
+    "file_size": 23,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:28:28.700537"
+  },
+  {
+    "report_id": 1,
+    "filename": "d5fd7d0a0fc8412384898ea7c5eb7a6e.txt",
+    "original_filename": "RECEIPT.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\d5fd7d0a0fc8412384898ea7c5eb7a6e.txt",
+    "file_type": "txt",
+    "file_size": 77,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:28:31.129339"
+  },
+  {
+    "report_id": 1,
+    "filename": "0edb9ace9f4f47809e926f027606614a.txt",
+    "original_filename": "report.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\0edb9ace9f4f47809e926f027606614a.txt",
+    "file_type": "txt",
+    "file_size": 43,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:28:34.854003"
+  },
+  {
+    "report_id": 1,
+    "filename": "d894ae20b2c94703b45b5f5555170ab9.txt",
+    "original_filename": "report.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\d894ae20b2c94703b45b5f5555170ab9.txt",
+    "file_type": "txt",
+    "file_size": 46,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:28:37.146531"
+  },
+  {
+    "report_id": 1,
+    "filename": "e1e3a7c493074677bf2b4bf594c259e5.txt",
+    "original_filename": "sales.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\e1e3a7c493074677bf2b4bf594c259e5.txt",
+    "file_type": "txt",
+    "file_size": 23,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:28:53.038187"
+  },
+  {
+    "report_id": 1,
+    "filename": "9afb0a117cd045cb9893f7ca3e596630.txt",
+    "original_filename": "sales.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\9afb0a117cd045cb9893f7ca3e596630.txt",
+    "file_type": "txt",
+    "file_size": 43,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:28:53.719975"
+  },
+  {
+    "report_id": 1,
+    "filename": "acb4b2b09a8245eba4526d34f1b0f6a0.txt",
+    "original_filename": "sales.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\acb4b2b09a8245eba4526d34f1b0f6a0.txt",
+    "file_type": "txt",
+    "file_size": 43,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:28:58.510111"
+  },
+  {
+    "report_id": 1,
+    "filename": "b294a50e1ff94f2a915af4a12916ca2f.txt",
+    "original_filename": "report.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\b294a50e1ff94f2a915af4a12916ca2f.txt",
+    "file_type": "txt",
+    "file_size": 71,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:31:07.020129"
+  },
+  {
+    "report_id": 1,
+    "filename": "55588b14bb3147beb7924498285ff0ba.txt",
+    "original_filename": "finance.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\55588b14bb3147beb7924498285ff0ba.txt",
+    "file_type": "txt",
+    "file_size": 69,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:31:07.134144"
+  },
+  {
+    "report_id": 1,
+    "filename": "fd4d33ed1b204db091dd3d087819a546.txt",
+    "original_filename": "small.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\fd4d33ed1b204db091dd3d087819a546.txt",
+    "file_type": "txt",
+    "file_size": 23,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:31:12.123847"
+  },
+  {
+    "report_id": 1,
+    "filename": "d07ab1dc347447978ae794dec821c895.txt",
+    "original_filename": "RECEIPT.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\d07ab1dc347447978ae794dec821c895.txt",
+    "file_type": "txt",
+    "file_size": 77,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:31:14.212163"
+  },
+  {
+    "report_id": 1,
+    "filename": "5e87088d8cae4e8f84fb37052f74f762.txt",
+    "original_filename": "report.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\5e87088d8cae4e8f84fb37052f74f762.txt",
+    "file_type": "txt",
+    "file_size": 43,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:31:17.648637"
+  },
+  {
+    "report_id": 1,
+    "filename": "16ecad63cc72467799ba8c6741079d79.txt",
+    "original_filename": "report.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\16ecad63cc72467799ba8c6741079d79.txt",
+    "file_type": "txt",
+    "file_size": 46,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:31:20.293959"
+  },
+  {
+    "report_id": 1,
+    "filename": "79fae03bb5684337b345558ab7d07ac3.txt",
+    "original_filename": "sales.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\79fae03bb5684337b345558ab7d07ac3.txt",
+    "file_type": "txt",
+    "file_size": 23,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:31:33.963877"
+  },
+  {
+    "report_id": 1,
+    "filename": "0f040a621fb94d7b806f50248838ae20.txt",
+    "original_filename": "sales.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\0f040a621fb94d7b806f50248838ae20.txt",
+    "file_type": "txt",
+    "file_size": 43,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:31:34.717189"
+  },
+  {
+    "report_id": 1,
+    "filename": "4b215cd970334263916b1b3bc26d32f8.txt",
+    "original_filename": "sales.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\4b215cd970334263916b1b3bc26d32f8.txt",
+    "file_type": "txt",
+    "file_size": 43,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:31:37.794373"
+  },
+  {
+    "report_id": 3,
+    "filename": "14fc904b6f5f4595bf5b05e7c6091f12.txt",
+    "original_filename": "r2.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\14fc904b6f5f4595bf5b05e7c6091f12.txt",
+    "file_type": "txt",
+    "file_size": 12,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:39:18.663831"
+  },
+  {
+    "report_id": 1,
+    "filename": "7c4aa29da33141f8bd94b776a9770649.txt",
+    "original_filename": "sales.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\7c4aa29da33141f8bd94b776a9770649.txt",
+    "file_type": "txt",
+    "file_size": 43,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:43:04.925520"
+  },
+  {
+    "report_id": 1,
+    "filename": "0032495640b64ff8b2865c12ddb28819.txt",
+    "original_filename": "sales.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\0032495640b64ff8b2865c12ddb28819.txt",
+    "file_type": "txt",
+    "file_size": 43,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:43:08.337214"
+  },
+  {
+    "report_id": 1,
+    "filename": "17a22787f5134bb0a0549c08d2e5d2d3.txt",
+    "original_filename": "s0.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\17a22787f5134bb0a0549c08d2e5d2d3.txt",
+    "file_type": "txt",
+    "file_size": 12,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:43:12.166944"
+  },
+  {
+    "report_id": 2,
+    "filename": "10d51f231a2f49d0bea785693be0e150.txt",
+    "original_filename": "s1.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\10d51f231a2f49d0bea785693be0e150.txt",
+    "file_type": "txt",
+    "file_size": 12,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:43:18.391376"
+  },
+  {
+    "report_id": 3,
+    "filename": "c151d133ed044efe9764c5951daa499f.txt",
+    "original_filename": "s2.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\c151d133ed044efe9764c5951daa499f.txt",
+    "file_type": "txt",
+    "file_size": 12,
+    "status": "uploaded",
+    "created_at": "2026-06-27T06:43:22.301806"
+  },
+  {
+    "report_id": 1,
+    "filename": "36acb7b4203048e8aac10f4f7365d754.txt",
+    "original_filename": "report.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\36acb7b4203048e8aac10f4f7365d754.txt",
+    "file_type": "txt",
+    "file_size": 71,
+    "status": "uploaded",
+    "created_at": "2026-06-27T08:41:24.453688"
+  },
+  {
+    "report_id": 1,
+    "filename": "6b7385b4594145e7ab518d6c6fd4751c.txt",
+    "original_filename": "finance.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\6b7385b4594145e7ab518d6c6fd4751c.txt",
+    "file_type": "txt",
+    "file_size": 69,
+    "status": "uploaded",
+    "created_at": "2026-06-27T08:41:24.616423"
+  },
+  {
+    "report_id": 1,
+    "filename": "5cbae1e638d04925b6940fd04f575731.txt",
+    "original_filename": "small.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\5cbae1e638d04925b6940fd04f575731.txt",
+    "file_type": "txt",
+    "file_size": 23,
+    "status": "uploaded",
+    "created_at": "2026-06-27T08:41:32.209653"
+  },
+  {
+    "report_id": 1,
+    "filename": "409f8fa641c44610a30641459fbc381a.txt",
+    "original_filename": "RECEIPT.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\409f8fa641c44610a30641459fbc381a.txt",
+    "file_type": "txt",
+    "file_size": 77,
+    "status": "uploaded",
+    "created_at": "2026-06-27T08:41:34.030946"
+  },
+  {
+    "report_id": 1,
+    "filename": "0121928e8d2b46b2b63fe1ab1061de4a.txt",
+    "original_filename": "report.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\0121928e8d2b46b2b63fe1ab1061de4a.txt",
+    "file_type": "txt",
+    "file_size": 43,
+    "status": "uploaded",
+    "created_at": "2026-06-27T08:41:37.036262"
+  },
+  {
+    "report_id": 1,
+    "filename": "8ca67710f40a4eeb8824f5761884a2d1.txt",
+    "original_filename": "report.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\8ca67710f40a4eeb8824f5761884a2d1.txt",
+    "file_type": "txt",
+    "file_size": 46,
+    "status": "uploaded",
+    "created_at": "2026-06-27T08:41:39.970436"
+  },
+  {
+    "report_id": 1,
+    "filename": "e1348fca2fa4433e97af17a2d95c249e.txt",
+    "original_filename": "report.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\e1348fca2fa4433e97af17a2d95c249e.txt",
+    "file_type": "txt",
+    "file_size": 46,
+    "status": "uploaded",
+    "created_at": "2026-06-27T08:41:40.197237"
+  },
+  {
+    "report_id": 3,
+    "filename": "5145667d2b7c48d281753c617d4601b8.txt",
+    "original_filename": "r2.txt",
+    "file_path": "C:\\Users\\nmtab\\OneDrive\\Desktop\\myProjects\\galfar\\backend\\tests\\.pytest_storage\\uploads\\5145667d2b7c48d281753c617d4601b8.txt",
+    "file_type": "txt",
+    "file_size": 12,
+    "status": "uploaded",
+    "created_at": "2026-06-27T08:41:40.904582"
+  }
+]
